@@ -1,0 +1,10 @@
+C:\WORK\NTIER\NTIER\NTIER.EF\bin\Debug\NTIER.EF.dll.config
+C:\WORK\NTIER\NTIER\NTIER.EF\bin\Debug\NTIER.EF.dll
+C:\WORK\NTIER\NTIER\NTIER.EF\bin\Debug\NTIER.EF.pdb
+C:\WORK\NTIER\NTIER\NTIER.EF\bin\Debug\EntityFramework.dll
+C:\WORK\NTIER\NTIER\NTIER.EF\bin\Debug\EntityFramework.xml
+C:\WORK\NTIER\NTIER\NTIER.EF\obj\Debug\NTIER.EF.csprojAssemblyReference.cache
+C:\WORK\NTIER\NTIER\NTIER.EF\obj\Debug\NTIER.EF.csproj.CoreCompileInputs.cache
+C:\WORK\NTIER\NTIER\NTIER.EF\obj\Debug\NTIER.EF.csproj.CopyComplete
+C:\WORK\NTIER\NTIER\NTIER.EF\obj\Debug\NTIER.EF.dll
+C:\WORK\NTIER\NTIER\NTIER.EF\obj\Debug\NTIER.EF.pdb
